@@ -32,7 +32,7 @@ Three prominent clusters emerged after applying the method on the data:
 
 The elbow method is a technique used to determine the optimal number of clusters (K) in K-means clustering. It involves plotting the sum of squared distances (inertia) of data points to their assigned cluster centroids for different values of K. The "elbow" point in the plot, where the inertia starts to decrease at a slower rate, indicates the optimal number of clusters.
 
-![Elbow Method](https://github.com/Ash-0701/Clustering-Based-Geolocation-Suggestion-System/assets/127925686/3ea59a9f-2b1b-46a6-9a25-6228d88d3cd7)
+![Elbow Method](https://github.com/Ash-0701/Clustering-Based-Geolocation-Suggestion-System/assets/127925686/42e65d85-b3fc-431f-a593-c75544c4fa44)
 
 In our project, we applied the elbow method to determine the optimal number of clusters for classifying accommodation options based on student preferences. The plot above shows the sum of squared distances for different values of K, and the elbow point indicates that K=3 is a suitable choice for our clustering task.
 
@@ -40,7 +40,8 @@ In our project, we applied the elbow method to determine the optimal number of c
 
 The silhouette score is a metric used to evaluate the quality of clustering. It measures the cohesion and separation of data points within and between clusters, respectively. A high silhouette score suggests that the clusters are dense and well-separated.
 
-![Silhouette Score](https://github.com/Ash-0701/Clustering-Based-Geolocation-Suggestion-System/assets/127925686/47ac3744-4dda-4e8e-b871-85dd663588f2)
+![Silhouette Score](https://github.com/Ash-0701/Clustering-Based-Geolocation-Suggestion-System/assets/127925686/09fada1b-dac0-49df-a106-0ab39dcd9574)
+
 
 We also calculated the silhouette score for different values of K to determine the optimal number of clusters. The plot above illustrates how the silhouette score varies with the number of clusters. In our case, K=3 yielded a relatively high silhouette score, indicating that it's a suitable choice for clustering student accommodation options.
 
@@ -53,7 +54,7 @@ We also calculated the silhouette score for different values of K to determine t
 
 ● Cluster 2(Red): Restaurants and groceries are relatively hard to find.
 
-![Final_location](https://github.com/Ash-0701/Clustering-Based-Geolocation-Suggestion-System/assets/127925686/700054f4-2014-4d24-b646-b446e9b69f31)
+![Final_location](https://github.com/Ash-0701/Clustering-Based-Geolocation-Suggestion-System/assets/127925686/dec8a31f-c22d-4e11-872d-c59318a24655)
 
 
 ## Result
