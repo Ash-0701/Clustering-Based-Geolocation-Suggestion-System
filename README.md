@@ -2,7 +2,7 @@
 
 ## Demo App:
 
-[Link to Hostelers App](https://hostelers.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hostelers.streamlit.app/)
 
 ## Introduction/Business Problem:
 
