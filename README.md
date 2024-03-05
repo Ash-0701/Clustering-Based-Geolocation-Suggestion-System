@@ -1,5 +1,9 @@
 # Clustering Based Geolocation Suggestion System
 
+## Demo App:
+
+[Link to Hostelers App](https://hostelers.streamlit.app/)
+
 ## Introduction/Business Problem:
 
 In the fast moving, effort-intense environment that a student inhabits,It’s a frequent occurrence
